@@ -26,4 +26,12 @@ int main () {
 }
 ```
 
-[variables-and-datatypes.c++](./source_code/variables-and-datatypes.cpp)
+[variables-and-datatypes.c++](./source_code/lecture_1/variables-and-datatypes.cpp)
+
+
+## Lecture 2
+### Conditionals
+> If, else if, else... ik all these already!
+
+[conditionals.c++](./source_code/lecture_2/conditionals.cpp)
+[homework.c++](./source_code/lecture_2/homework.cpp)
