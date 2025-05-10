@@ -29,7 +29,7 @@ int main () {
 [variables-and-datatypes.c++](./source_code/lecture_1/variables-and-datatypes.cpp)
 
 
-## Lecture 2
+## Lecture 2 & 3
 ### Conditionals
 > If, else if, else... ik all these already!
 
