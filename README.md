@@ -35,3 +35,9 @@ int main () {
 
 [conditionals.c++](./source_code/lecture_2/conditionals.cpp)
 [homework.c++](./source_code/lecture_2/homework.cpp)
+
+## Lecture 4
+### Pattern Questions
+> They are fun only when they are difficult :(
+
+[pattern_questions.c++](./source_code/lecture_4/pattern_questions.cpp)
